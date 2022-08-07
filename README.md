@@ -1,4 +1,4 @@
-# chaos-from-order
+# Chaos from Order
 Replication materials for the paper, Chaos from Order: A Network Analysis of In-fighting Before and After El Chapo's Arrest
 
 The subfolders and files contained in this folder can be used to reproduce the figures and statistical results from
